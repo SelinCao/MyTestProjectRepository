@@ -1,0 +1,107 @@
+2018-01-19 11:45:11 INFO  ConsumerConfig:165 - ConsumerConfig values: 
+	metric.reporters = []
+	metadata.max.age.ms = 300000
+	value.deserializer = class com.znv.kafka.common.KafkaAvroDeSerializer
+	group.id = czl-source-group1
+	partition.assignment.strategy = [org.apache.kafka.clients.consumer.RangeAssignor]
+	reconnect.backoff.ms = 50
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	max.partition.fetch.bytes = 1048576
+	bootstrap.servers = [lv112.dct-znv.com:9092]
+	retry.backoff.ms = 100
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	ssl.keystore.type = JKS
+	ssl.trustmanager.algorithm = PKIX
+	enable.auto.commit = true
+	ssl.key.password = null
+	fetch.max.wait.ms = 500
+	sasl.kerberos.min.time.before.relogin = 60000
+	connections.max.idle.ms = 540000
+	ssl.truststore.password = null
+	session.timeout.ms = 30000
+	metrics.num.samples = 2
+	client.id = 
+	ssl.endpoint.identification.algorithm = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	ssl.protocol = TLS
+	check.crcs = true
+	request.timeout.ms = 40000
+	ssl.provider = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.keystore.location = null
+	heartbeat.interval.ms = 3000
+	auto.commit.interval.ms = 5000
+	receive.buffer.bytes = 32768
+	ssl.cipher.suites = null
+	ssl.truststore.type = JKS
+	security.protocol = PLAINTEXT
+	ssl.truststore.location = null
+	ssl.keystore.password = null
+	ssl.keymanager.algorithm = SunX509
+	metrics.sample.window.ms = 30000
+	fetch.min.bytes = 1
+	send.buffer.bytes = 131072
+	auto.offset.reset = earliest
+
+2018-01-19 11:45:11 INFO  AppInfoParser:82 - Kafka version : 0.9.0.1
+2018-01-19 11:45:11 INFO  AppInfoParser:83 - Kafka commitId : 23c69d62a0cabf06
+2018-01-19 11:50:31 INFO  ConsumerConfig:165 - ConsumerConfig values: 
+	metric.reporters = []
+	metadata.max.age.ms = 300000
+	value.deserializer = class com.znv.kafka.common.KafkaAvroDeSerializer
+	group.id = czl-source-group1
+	partition.assignment.strategy = [org.apache.kafka.clients.consumer.RangeAssignor]
+	reconnect.backoff.ms = 50
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	max.partition.fetch.bytes = 1048576
+	bootstrap.servers = [face.dct-znv.com:9092]
+	retry.backoff.ms = 100
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	ssl.keystore.type = JKS
+	ssl.trustmanager.algorithm = PKIX
+	enable.auto.commit = true
+	ssl.key.password = null
+	fetch.max.wait.ms = 500
+	sasl.kerberos.min.time.before.relogin = 60000
+	connections.max.idle.ms = 540000
+	ssl.truststore.password = null
+	session.timeout.ms = 30000
+	metrics.num.samples = 2
+	client.id = 
+	ssl.endpoint.identification.algorithm = null
+	key.deserializer = class org.apache.kafka.common.serialization.StringDeserializer
+	ssl.protocol = TLS
+	check.crcs = true
+	request.timeout.ms = 40000
+	ssl.provider = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.keystore.location = null
+	heartbeat.interval.ms = 3000
+	auto.commit.interval.ms = 5000
+	receive.buffer.bytes = 32768
+	ssl.cipher.suites = null
+	ssl.truststore.type = JKS
+	security.protocol = PLAINTEXT
+	ssl.truststore.location = null
+	ssl.keystore.password = null
+	ssl.keymanager.algorithm = SunX509
+	metrics.sample.window.ms = 30000
+	fetch.min.bytes = 1
+	send.buffer.bytes = 131072
+	auto.offset.reset = earliest
+
+2018-01-19 11:50:31 INFO  AppInfoParser:82 - Kafka version : 0.9.0.1
+2018-01-19 11:50:31 INFO  AppInfoParser:83 - Kafka commitId : 23c69d62a0cabf06
+2018-01-19 12:02:40 INFO  AbstractCoordinator:529 - Marking the coordinator 2147483611 dead.
+2018-01-19 12:14:36 INFO  AbstractCoordinator:529 - Marking the coordinator 2147483611 dead.
+2018-01-19 12:26:31 INFO  AbstractCoordinator:529 - Marking the coordinator 2147483611 dead.
+2018-01-19 12:38:25 INFO  AbstractCoordinator:529 - Marking the coordinator 2147483611 dead.
+2018-01-19 12:50:22 INFO  AbstractCoordinator:529 - Marking the coordinator 2147483611 dead.
+2018-01-19 13:02:18 INFO  AbstractCoordinator:529 - Marking the coordinator 2147483611 dead.
+2018-01-19 13:14:13 INFO  AbstractCoordinator:529 - Marking the coordinator 2147483611 dead.
+2018-01-19 13:26:15 INFO  AbstractCoordinator:529 - Marking the coordinator 2147483611 dead.
+2018-01-19 13:36:21 INFO  AbstractCoordinator:529 - Marking the coordinator 2147483611 dead.
